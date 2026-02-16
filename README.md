@@ -1,4 +1,4 @@
-### Student & Developer; Proficient in C#, C, TS, Java, and Python.
+### Student & Developer; Proficient in C++, C, TS, Java, and Python.
 ## Projects
 Stalled • a Rogue-like Dungeon Runner made with the Unity Engine
 
