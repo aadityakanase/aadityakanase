@@ -1,5 +1,5 @@
-### Student & Developer; Proficient in C++, C, TS, Java, and Python.
+### EE I.T. & Embedded Developer; Proficient in C++, C, TS, Java.
 ## Projects
-Stalled • a Rogue-like Dungeon Runner made with the Unity Engine
+HandEE • An ultra low-cost, low-latency non-ASIC wearable EIT for robotic teleoperation.
 
-Acropolis • A home Automation tool written in Python
+Acropolis • A fully featured home automation tool (c++ and python). Deployed on a standard ESP32-S3
